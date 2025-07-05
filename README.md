@@ -1,4 +1,11 @@
-# 🕷️ WebHunt ,Recon & Bruteforce Toolkit
+
+---
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Maintained](https://img.shields.io/badge/Maintained-yes-brightgreen)
+
+# 🕷️ WebHunt — Recon & Bruteforce Toolkit
 
 > **WebHunt** adalah toolkit all-in-one untuk rekonsai, scanning kerentanan, dan bruteforce berbasis Python.  
 > Dirancang untuk keperluan *ethical hacking*, *pentesting*, dan *cybersec lab simulation*.
@@ -40,4 +47,4 @@ python webhunt.py
 ```
 
 ## More Info You can contact me on Instagram
-#https://istagram.com/rstuuramadhan#
+https://istagram.com/rstuuramadhan
