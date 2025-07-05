@@ -37,7 +37,7 @@ Silakan install secara manual sebelum menjalankan script.
 git clone https://github.com/beruu27/webhunt.git
 cd webhunt
 python webhunt.py
-
+```
 
 ## More Info You can contact me on Instagram
-`https://istagram.com/rstuuramadhan`
+#https://istagram.com/rstuuramadhan#
