@@ -47,4 +47,4 @@ python webhunt.py
 ```
 
 ## More Info You can contact me on Instagram
-https://istagram.com/rstuuramadhan
+https://instagram.com/rstuuramadhan
